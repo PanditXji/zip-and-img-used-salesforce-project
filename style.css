@@ -1,0 +1,14 @@
+.datatable-orange {
+  color: #fff;
+  background-color: #ffa500;
+}
+
+.datatable-orange:hover {
+  color: #000;
+  background-color: #ffa500;
+}
+
+.myTable table>thead .slds-cell-fixed.slds-has-button-menu,
+table>thead .slds-cell-fixed.slds-has-button-menu:hover{
+       background:antiquewhite;
+}
